@@ -1,7 +1,7 @@
 ## CHRISTMAS EVENT ANALYSIS
 
 ### Introduction
-For 2023 chritsmas, sweettooth confectionaries had decided it was going to bring more fun to children and more traction to herself. A unique christmas event; "Dreamland" was organized. Children would need tickets to access the christmas dreamland. The aim of this project was to evaluate the performance of the event and outline specific cause of shortcomings and as well state clearly measures of improvements in subsequet christmas events. 
+For 2023 christmas, sweettooth confectionaries had decided it was going to bring more fun to children and more traction to herself. A unique christmas event; "Dreamland" was organized. Children would need tickets to access the christmas dreamland. The aim of this project was to evaluate the performance of the event and outline specific cause of shortcomings and as well state clearly measures of improvements in subsequet christmas events. 
  
 ### Basic goals of the project
 * Investigating effective ticket sales pattern as well as the effects of the ticket types.
